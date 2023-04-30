@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+<img width="799" alt="Screen Shot 2023-04-30 at 5 28 06 pm" src="https://user-images.githubusercontent.com/71252455/235341264-27cfcb9d-41a1-4114-b8ea-f04ed3fcd2a8.png">
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+DEMO:  https://j-j0.github.io/quote-generator-react/
+
 
 ## Available Scripts
 
